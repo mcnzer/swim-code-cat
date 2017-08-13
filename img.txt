@@ -1,1 +1,0 @@
-<img src="toplogo.png" alt="Smiley face" height="32" width="185">
